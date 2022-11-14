@@ -1,7 +1,5 @@
 
 
-https://user-images.githubusercontent.com/114755017/195914741-b2e081b2-6a27-40cb-9855-03c170f7a500.mp4
-
 # Building a Personalized Fashion Recommendation System
 If you are someone who always spends too much time thinking and feeling kind of anxious about What shoud I Wear? Did you ever think how much better it would be to have a personalized recommendation system just for you, So that all you got to do is open a mobile app and enter the occasion you are going to and the model will predict and pick the most suitable dress out of all the dresses you have which will be apt for that specific occasion. 
 1. The Idea is to create a model that has trained with most of the best rated fashion dress and style images that can be worn for various occasions, here occasion being the target label.
